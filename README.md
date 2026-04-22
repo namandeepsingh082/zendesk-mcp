@@ -45,7 +45,7 @@ zendesk-mcp
 ### Option C — Run from source
 
 ```bash
-git clone https://github.com/Sajiiidddd/zendesk-mcp
+git clone https://github.com/namandeepsingh082/zendesk-mcp
 cd zendesk-mcp
 python3 -m venv .venv
 .venv/bin/pip install -e .
